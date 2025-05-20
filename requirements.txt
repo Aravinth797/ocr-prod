@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+paddleocr
+pillow
+python-dotenv
+paddlepaddle==2.5.2
+aiofiles
